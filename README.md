@@ -1,6 +1,6 @@
-# Image_Croping_Like_Facebook
+# Image Croping Like Facebook by Abdul Manum
 <h1>Copyright by Abdul Manum</h1>
-<h1>by Abdul Manum</h1>
+<h3>Android Studio - Kotlin</h3>
 
 <h3>Screenshoot 1</h3>
 
